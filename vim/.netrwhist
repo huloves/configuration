@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/huloves/learn-libbpf/analyze-bpf/bpftool'
+let g:netrw_dirhist_4='/home/huloves/repositories/libbpf-bootstrap/bpftool/src'
+let g:netrw_dirhist_3='/home/huloves/learn-libbpf/analyze-bpf/bpftool'
+let g:netrw_dirhist_2='/home/huloves/learn-libbpf/analyze-bpf/bpftool/include'
+let g:netrw_dirhist_1='/home/huloves/learn-libbpf/analyze-bpf/bpftool'
